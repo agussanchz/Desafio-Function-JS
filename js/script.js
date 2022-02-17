@@ -44,15 +44,3 @@ while (productos != 1 || productos != 2){
 
 
 
-
-
-/*Comprobar que numero de opcion ingreso para devolver su precio*/ 
-if (productos == 1){
-	
-}
-else if (productos == 2){
-	
-}
-
-
-
